@@ -180,5 +180,5 @@ texinfo_documents = [
 intersphinx_mapping = {'https://docs.python.org/': None}
 
 # Projet logo and icon
-html_logo = '_static/apptalk_logo_200x200.png'
+html_logo = '_static/apptalk_logo_200x160.png'
 html_favicon = '_static/favicon.ico'

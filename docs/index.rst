@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AppTalk's documentation!
-===================================
+AppTalk - reliable data exchange engine for cloud apps
+======================================================
 
 .. toctree::
    :maxdepth: 2
