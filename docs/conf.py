@@ -178,3 +178,7 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'https://docs.python.org/': None}
+
+# Projet logo and icon
+html_logo = '_static/apptalk_logo_200x200.png'
+html_favicon = '_static/favicon.ico'
